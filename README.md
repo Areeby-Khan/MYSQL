@@ -14,3 +14,12 @@ Welcome to the **MySQL Projects and Learning Repository**! This repository is de
 **Advanced Joins**: Understanding inner joins, left joins, right joins, and self-joins.
 **Subqueries**: Writing and using subqueries for complex data retrieval.
 
+## Features
+
+- Simple and efficient MySQL projects for beginners.
+- Focus on core concepts like SQL queries, normalization, and data manipulation.
+- Real-world examples to practice queries and table structures.
+- Exercises to test your understanding of joins, aggregation, and subqueries.
+
+## AUTHOR
+### Areeba Khan Balouch
